@@ -27,3 +27,5 @@ While the exact mission statement isn't provided, based on the data, we can infe
 ## Connect with Economy Plus:
 
 For further details, connect with Economy Plus on [Discord](https://discord.gg/anticheat).
+
+Hi DJ its me! yakub_real
